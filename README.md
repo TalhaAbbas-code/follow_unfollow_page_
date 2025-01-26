@@ -3,6 +3,7 @@
 
 A new Flutter project.
 ![image2](https://github.com/TalhaAbbas-code/follow_unfollow_page_/assets/141476903/373c4def-8131-4625-97cc-60f3d26d82f8)
+<img src="[assets/homepage.png](https://github.com/TalhaAbbas-code/follow_unfollow_page_/assets/141476903/373c4def-8131-4625-97cc-60f3d26d82f8)" alt="Homepage Screenshot" width="800">
 
 ## Getting Started
 
